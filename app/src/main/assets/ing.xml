@@ -1,0 +1,3749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2016 Enrico Candino
+  ~ <p>
+  ~ Distributed under the MIT License.
+  -->
+<facolta xmlns:fn="http://www.w3.org/2005/xpath-functions"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="http://orari.uniroma3.it/ing/templates/layout.xsd">
+
+    <denominazione>Dipartimento di Ingegneria</denominazione>
+    <listaAuleAsservite>
+        <aula>N15</aula>
+        <capacita>182</capacita>
+        <aula>N16</aula>
+        <capacita>182</capacita>
+        <aula>N17</aula>
+        <capacita>100</capacita>
+        <aula>N18</aula>
+        <capacita>320</capacita>
+        <aula>N19</aula>
+        <capacita>100</capacita>
+        <aula>N20</aula>
+        <capacita>60</capacita>
+        <aula>N21</aula>
+        <capacita>60</capacita>
+        <aula>N22</aula>
+        <capacita>45</capacita>
+        <aula>N23</aula>
+        <capacita>35</capacita>
+        <aula>N12</aula>
+        <capacita>100</capacita>
+        <aula>DS1</aula>
+        <capacita>150</capacita>
+        <aula>DS2</aula>
+        <capacita>66</capacita>
+        <aula>N01</aula>
+        <capacita>209</capacita>
+        <aula>N02</aula>
+        <capacita>66</capacita>
+        <aula>N03</aula>
+        <capacita>96</capacita>
+        <aula>N04</aula>
+        <capacita>96</capacita>
+        <aula>N05</aula>
+        <capacita>96</capacita>
+        <aula>N06</aula>
+        <capacita>63</capacita>
+        <aula>N07</aula>
+        <capacita>63</capacita>
+        <aula>N08</aula>
+        <capacita>63</capacita>
+        <aula>N10</aula>
+        <capacita>250</capacita>
+        <aula>N11</aula>
+        <capacita>250</capacita>
+        <aula>N13</aula>
+        <capacita>100</capacita>
+        <aula>N14</aula>
+        <capacita>100</capacita>
+        <aula>N09</aula>
+        <capacita>30</capacita>
+        <aula>Aula Campus</aula>
+        <capacita>0</capacita>
+        <aula>DS3A</aula>
+        <capacita>30</capacita>
+        <aula>DS3B</aula>
+        <capacita>30</capacita>
+        <aula>Aula ex CAB</aula>
+        <capacita>0</capacita>
+        <aula>SA</aula>
+        <capacita>168</capacita>
+        <aula>RA</aula>
+        <capacita>25</capacita>
+        <aula>BIOLAB3@SEGRE</aula>
+        <capacita>30</capacita>
+        <aula>LAB.Elettromagnetismo Ap.</aula>
+        <capacita>30</capacita>
+        <aula>Lab. di Elettronica</aula>
+        <capacita>40</capacita>
+        <aula>2C</aula>
+        <capacita>0</capacita>
+        <aula></aula>
+        <capacita>0</capacita>
+        <aula>Sala Conferenze</aula>
+        <capacita>152</capacita>
+    </listaAuleAsservite>
+    <corsoLaurea>
+        <denominazione>Ing Civile</denominazione>
+        <insegnamento>
+            <denominazione>Commissioni di laurea</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>De Blasiis</docente>
+                            <aula>N17</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:30:00</orarioInizio>
+                            <orarioFine>19:30:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Commissioni di laurea</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Calenda</docente>
+                            <aula>N17</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>14:30:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Signal processing for biomedical engineering - Giunta</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Giunta</docente>
+                            <aula>N21</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Biophysics and human physiology - Acconcia/Ascenzi</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Acconica</docente>
+                            <aula>N21</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Esami di Stato</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>de Felice</docente>
+                            <aula>N23</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>15:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elementi di crittografia (mod i) - Merola</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Merola</docente>
+                            <aula>N12</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Tecnica e pianificazione urbanistica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Bellone</docente>
+                            <aula>N03</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Esercitazioni</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Meccanica</docente>
+                            <aula>N05</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Commissione di laurea</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>de Felice</docente>
+                            <aula>N06</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Esercitazioni di Geometria</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Bravaccino</docente>
+                            <aula>N07</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Esercitazione</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Morganti</docente>
+                            <aula>N07</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Commissione di laurea</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Franco</docente>
+                            <aula>N08</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>19:30:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>PROGETTO DEI SISTEMI DI TRASPORTO</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Esercitazione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>GORI STEFANO</docente>
+                            <aula>Aula Campus</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+    </corsoLaurea>
+    <corsoLaurea>
+        <denominazione>Ing Elettronica</denominazione>
+        <insegnamento>
+            <denominazione>ELETTRONICA II</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>ROSSI MARIA CRISTINA</docente>
+                            <aula>DS1</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:30:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Esercitazione LABVIEW</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Esercitazione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Bibbo</docente>
+                            <aula>Aula Campus</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+    </corsoLaurea>
+    <corsoLaurea>
+        <denominazione>Ing Informatica</denominazione>
+        <insegnamento>
+            <denominazione>OTTIMIZZAZIONE DELLA LOGISTICA</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Altro</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>PACCIARELLI DARIO</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>17:00:00</orarioInizio>
+                            <orarioFine>19:30:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>TEORIA DEL CONTROLLO E DEI SISTEMI</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>GASPARRI</docente>
+                            <aula>N08</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>13:30:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>DE LUCA TECLA</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>DE LUCA TECLA</docente>
+                            <aula>N10</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>18:00:00</orarioInizio>
+                            <orarioFine>19:45:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Seminario</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Seminario</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Micarelli Alessandro</docente>
+                            <aula>N13</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:15:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>PROVE PROIEZIONI LAUREE</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>PROVE PROIEZIONI LAUREE</docente>
+                            <aula>N13</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>13:45:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>SEDUTE LAUREA INFORMATICA</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>SEDUTE LAUREA</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>13:00:00</orarioInizio>
+                            <orarioFine>14:45:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>SEDUTE LAUREA INFORMATICA</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>SEDUTE LAUREA</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>17:00:00</orarioInizio>
+                            <orarioFine>19:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>PROVE PROIEZIONI LAUREE</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Non specificato</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>PROVE PROIEZIONI LAUREE</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>15:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>GEOMETRIA E COMBINATORIA</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Altro</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>MEROLA</docente>
+                            <aula>DS3B</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>15:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+    </corsoLaurea>
+    <corsoLaurea>
+        <denominazione>Ing Meccanica</denominazione>
+        <insegnamento>
+            <denominazione>Ricevimento studenti - ANALISI MATEMATICA I (canale DAM_K)
+            </denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Altro</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>CHIERCHIA LUIGI</docente>
+                            <aula>N22</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:30:00</orarioInizio>
+                            <orarioFine>15:30:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>LAUREE MECCANICA</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Altro</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>CAMUSSI</docente>
+                            <aula>N04</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>19:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>LAUREE MECCANICA</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Altro</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>BEMPORAD</docente>
+                            <aula>N05</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>19:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+    </corsoLaurea>
+    <corsoLaurea>
+        <denominazione>Ingegneria</denominazione>
+        <insegnamento>
+            <denominazione>Analisi matematica I L-MI</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Laforgia</docente>
+                            <aula>N15</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica I L-MI</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Laforgia</docente>
+                            <aula>N15</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>13:00:00</orarioInizio>
+                            <orarioFine>15:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fisica (recupero)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente></docente>
+                            <aula>N15</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fisica II</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Guattari</docente>
+                            <aula>N15</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>17:00:00</orarioInizio>
+                            <orarioFine>19:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fondamenti di Elettrotecnica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Laudani</docente>
+                            <aula>N15</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>15:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fondamenti di informatica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Cabibbo</docente>
+                            <aula>N15</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geologia applicata</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Mazza</docente>
+                            <aula>N15</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria A-K</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Bruno</docente>
+                            <aula>N15</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Probabilita' e statistica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>MARTINELLI</docente>
+                            <aula>N15</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica I A-CAL</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Tolli</docente>
+                            <aula>N16</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica I A-CAL</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Tolli</docente>
+                            <aula>N16</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica I MO-PIS</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Tolli</docente>
+                            <aula>N16</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica I MO-PIS</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Tolli</docente>
+                            <aula>N16</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>13:00:00</orarioInizio>
+                            <orarioFine>15:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elementi di informatica A-K</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Milicchio</docente>
+                            <aula>N16</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elementi di informatica L-Z</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Milicchio</docente>
+                            <aula>N16</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>15:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria A-K</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Leon Trujilo</docente>
+                            <aula>N16</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria L-Z</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Sabatini</docente>
+                            <aula>N16</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Biomaterials (1 module)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Orsini</docente>
+                            <aula>N17</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fundamentals of biomedical engineering (module 1)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Conforto</docente>
+                            <aula>N17</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica I DAM-K</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Chierchia</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica I DAM-K</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Chierchia</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica I PIT-Z</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Natalini</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica I PIT-Z</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Natalini</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>13:00:00</orarioInizio>
+                            <orarioFine>15:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria e combinatoria A-K (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Merola</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria e combinatoria A-K (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Merola</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria e combinatoria A-K (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Merola</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria e combinatoria A-K (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Merola</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria e combinatoria L-Z (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Leon Trujilo</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria e combinatoria L-Z (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Leon Trujilo</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>15:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria e combinatoria L-Z (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Leon Trujilo</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria e combinatoria L-Z (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Leon Trujilo</docente>
+                            <aula>N18</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>15:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Cemento armato precompresso</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Paolacci</docente>
+                            <aula>N19</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Complementi di idraulica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Mele</docente>
+                            <aula>N19</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Complementi di idraulica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Mele</docente>
+                            <aula>N19</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Dinamica delle strutture</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Teresi</docente>
+                            <aula>N19</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Materiali stradali</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Calvi</docente>
+                            <aula>N19</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Riabilitazione delle strutture</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>de Felice</docente>
+                            <aula>N19</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Sovrastrutture stradali e ferroviarie</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Bella</docente>
+                            <aula>N19</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Biomeccanica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Vannozzi</docente>
+                            <aula>N20</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Circuiti e sistemi elettrici</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Salvini</docente>
+                            <aula>N20</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fondamenti di ingegneria clinica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Sciuto</docente>
+                            <aula>N20</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fondamenti di ingegneria clinica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Sciuto</docente>
+                            <aula>N20</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Tecniche elettromagnetiche per la bioingegneria</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Vegni</docente>
+                            <aula>N20</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Aerodinamica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Camussi</docente>
+                            <aula>N22</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Aeroelasticita'</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Gennaretti</docente>
+                            <aula>N22</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Complementi di controlli automatici (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Panzieri</docente>
+                            <aula>N22</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Complementi di controlli automatici (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Oliva</docente>
+                            <aula>N22</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Costruzioni aeronautiche</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Bernardini</docente>
+                            <aula>N22</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Comunicazioni ottiche</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Cincotti</docente>
+                            <aula>N12</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Sistemi e Servizi di Telecomunicazione - Sistemi Radiomobili
+            </denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Neri</docente>
+                            <aula>N12</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Campi elettromagnetici II</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Bilotti</docente>
+                            <aula>DS1</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elettronica II</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Rossi</docente>
+                            <aula>DS1</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elettronica II</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Rossi</docente>
+                            <aula>DS1</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fotonica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Cincotti</docente>
+                            <aula>DS1</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Geometria L-Z</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Finocchiaro</docente>
+                            <aula>DS1</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Teoria dei segnali</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Campisi</docente>
+                            <aula>DS1</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>13:00:00</orarioInizio>
+                            <orarioFine>15:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Economia applicata all'ingegneria</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>De Luca</docente>
+                            <aula>N01</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Economia applicata all'ingegneria</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>De Luca</docente>
+                            <aula>N01</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Idraulica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Morganti</docente>
+                            <aula>N01</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Programmazione funzionale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Cialdea</docente>
+                            <aula>N01</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Ricerca operativa II</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Nicosia</docente>
+                            <aula>N01</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Scienza delle costruzioni</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Lembo Marzio</docente>
+                            <aula>N01</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>19:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Scienza delle costruzioni</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Lembo Marzio</docente>
+                            <aula>N01</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>19:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Sistemi operativi</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Pizzonia</docente>
+                            <aula>N01</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Strade ferrovie aeroporti</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Benedetto</docente>
+                            <aula>N01</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elaborazione numerica dei segnali per telecomunicazioni</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Giunta</docente>
+                            <aula>N02</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elaborazione numerica dei segnali per telecomunicazioni</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Giunta</docente>
+                            <aula>N02</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elettronica dei dispositivi a stato solido</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Conte</docente>
+                            <aula>N02</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Teoria dell'informazione e codici</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Neri</docente>
+                            <aula>N02</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Teoria dell'informazione e codici</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Neri</docente>
+                            <aula>N02</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Teoria delle misure e metrologia</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Caciotta</docente>
+                            <aula>N02</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Diritto e legislazione dei lavori pubblici (i modulo diritto
+                amministrativo e de
+            </denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Romano</docente>
+                            <aula>N03</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Materiali stradali</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Calvi</docente>
+                            <aula>N03</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Meccanica computazionale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Sciortino</docente>
+                            <aula>N03</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Pianificazione dei trasporti</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Nigro</docente>
+                            <aula>N03</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Teoria delle infrastrutture viarie</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>De Blasiis</docente>
+                            <aula>N03</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Turbomacchine</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Giovannelli</docente>
+                            <aula>N03</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Ingegneria sanitaria-ambientale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Baruchello</docente>
+                            <aula>N04</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Ingegneria sanitaria-ambientale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Baruchello</docente>
+                            <aula>N04</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Metodi numerici per l'ingegneria</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Spigler</docente>
+                            <aula>N04</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Sistemi elettronici per l'ingegneria meccanica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Lidozzi</docente>
+                            <aula>N04</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Sistemi elettronici per l'ingegneria meccanica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Lidozzi</docente>
+                            <aula>N04</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Costruzione di macchine (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Marini</docente>
+                            <aula>N05</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Costruzione di macchine (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Marini</docente>
+                            <aula>N05</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Costruzione di macchine (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Di Francesco</docente>
+                            <aula>N05</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Costruzione di macchine (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Di Francesco</docente>
+                            <aula>N05</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fondamenti di impianti industriali I</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Caputo</docente>
+                            <aula>N05</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fondamenti di impianti industriali I</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Caputo</docente>
+                            <aula>N05</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Laboratorio di aerodinamica e aeroacustica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Di Marco</docente>
+                            <aula>N05</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Macchine</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Cerri</docente>
+                            <aula>N05</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Sicurezza del lavoro e difesa ambientale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Alfaro Degan</docente>
+                            <aula>N05</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>15:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Complementi di meccanica applicata alle macchine</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Botta</docente>
+                            <aula>N06</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Complementi di meccanica applicata alle macchine</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Botta</docente>
+                            <aula>N06</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Diritto e legislazione dei lavori pubblici (ii modulo diritto dei lavori
+                pubblic
+            </denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Ferrante</docente>
+                            <aula>N06</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Interazione fra le macchine e l'ambiente</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Chiavola</docente>
+                            <aula>N06</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Macchine e azionamenti elettrici</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Crescimbini</docente>
+                            <aula>N06</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Oleodinamica e pneumatica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Palmieri</docente>
+                            <aula>N06</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Progetto di macchine</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Salvini</docente>
+                            <aula>N06</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>FISICA DELLA MATERIA + OTTICA (OTTICA MODULO II)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Santarsiero</docente>
+                            <aula>N07</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Laboratorio di progettazione stradale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>De Blasiis</docente>
+                            <aula>N07</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Riabilitazione delle strutture</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>de Felice</docente>
+                            <aula>N07</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elementi di organizzazione</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Protto</docente>
+                            <aula>N08</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elementi di organizzazione</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Protto</docente>
+                            <aula>N08</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Gestione dei progetti</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente></docente>
+                            <aula>N08</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Gestione dei progetti</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente></docente>
+                            <aula>N08</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Metodi di supporto alle decisioni manageriali</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente></docente>
+                            <aula>N08</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Ottimizzazione della logistica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Pacciarelli</docente>
+                            <aula>N08</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>15:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Robotica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Ulivi</docente>
+                            <aula>N08</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Teoria dei sistemi e del controllo (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Gasparri</docente>
+                            <aula>N08</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>15:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Teoria dei sistemi e del controllo (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Gasparri</docente>
+                            <aula>N08</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>15:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica per le applicazioni</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Esposito</docente>
+                            <aula>N10</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>15:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elettronica applicata ed elementi di meccanica statistica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Schirripa Spagnolo</docente>
+                            <aula>N10</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fisica tecnica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>De Lieto Vollaro</docente>
+                            <aula>N10</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>13:00:00</orarioInizio>
+                            <orarioFine>15:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Meccanica applicata alle macchine</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Botta</docente>
+                            <aula>N10</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Meccanica applicata alle macchine</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Botta</docente>
+                            <aula>N10</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Scienza delle costruzioni</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Maceri</docente>
+                            <aula>N10</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Scienza e tecnologia dei materiali</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Carassiti</docente>
+                            <aula>N10</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Scienza e tecnologia dei materiali</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Carassiti</docente>
+                            <aula>N10</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>17:00:00</orarioInizio>
+                            <orarioFine>19:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Sicurezza del lavoro e difesa ambientale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Alfaro Degan</docente>
+                            <aula>N10</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Sicurezza del lavoro e difesa ambientale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Alfaro Degan</docente>
+                            <aula>N10</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Algoritmi e strutture di dati</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Patrignani</docente>
+                            <aula>N11</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica I CAM-DALLA</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Natalini</docente>
+                            <aula>N11</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Analisi matematica I CAM-DALLA</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Natalini</docente>
+                            <aula>N11</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elettrotecnica ed elettronica (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Riganti Fulginei</docente>
+                            <aula>N11</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Elettrotecnica ed elettronica (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Riganti Fulginei</docente>
+                            <aula>N11</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fisica II</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Guattari</docente>
+                            <aula>N11</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Fondamenti di informatica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Cabibbo</docente>
+                            <aula>N11</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Matematica per l'ingegneria elettronica (Geometria)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Riganti Fulginei</docente>
+                            <aula>N11</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Progetto dei sistemi di trasporto</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Gori</docente>
+                            <aula>N11</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Seminario Informatica</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente></docente>
+                            <aula>N11</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>18:00:00</orarioInizio>
+                            <orarioFine>20:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Teoria dei segnali</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Campisi</docente>
+                            <aula>N11</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Cyber Physical Systems</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Pascucci</docente>
+                            <aula>N13</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Economia e strategia aziendale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>De Luca</docente>
+                            <aula>N13</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Economia e strategia aziendale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>De Luca</docente>
+                            <aula>N13</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Sicurezza dei sistemi informatici e delle reti</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Pizzonia</docente>
+                            <aula>N13</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Sistemi intelligenti per internet</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Micarelli</docente>
+                            <aula>N13</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>16:00:00</orarioInizio>
+                            <orarioFine>18:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Telecomunicazioni wireless</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Giunta</docente>
+                            <aula>N13</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Informatica teorica (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Di Battista</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Informatica teorica (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Di Battista</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Informatica teorica (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Di Battista</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>08:00:00</orarioInizio>
+                            <orarioFine>10:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Informatica teorica (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Di Battista</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Infrastrutture delle reti di calcolatori</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Patrignani</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Ottimizzazione combinatoria</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Nicosia</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>15:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Programmazione funzionale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Cialdea</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Telecomunicazioni wireless</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Giunta</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>12:00:00</orarioInizio>
+                            <orarioFine>14:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Teoria dei sistemi e del controllo (i modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Gasparri</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>15:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Teoria dei sistemi e del controllo (ii modulo)</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Gasparri</docente>
+                            <aula>N14</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>15:00:00</orarioInizio>
+                            <orarioFine>17:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Idraulica ambientale</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Adduce</docente>
+                            <aula>DS3A</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>16:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Trasporti urbani e metropolitani</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Cipriani</docente>
+                            <aula>DS3A</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Trasporti urbani e metropolitani</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Cipriani</docente>
+                            <aula>DS3A</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>09:00:00</orarioInizio>
+                            <orarioFine>11:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Trasporto pubblico</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Petrelli</docente>
+                            <aula>DS3A</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Trasporto pubblico</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Petrelli</docente>
+                            <aula>DS3A</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>14:00:00</orarioInizio>
+                            <orarioFine>17:30:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Misure e strumentazione per l'automazione</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Ulivi</docente>
+                            <aula>DS3B</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>10:00:00</orarioInizio>
+                            <orarioFine>12:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Programmazione concorrente</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Crescenzi</docente>
+                            <aula>DS3B</aula>
+                            <giorno>2015-12-15</giorno>
+                            <orarioInizio>11:00:00</orarioInizio>
+                            <orarioFine>13:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+        <insegnamento>
+            <denominazione>Simulazione di processi industriali e logistici</denominazione>
+            <periodoAnnoAccademico>
+                <denominazione />
+
+                <didattica>
+                    <orari>
+                        <denominazione>Lezione</denominazione>
+                        <eventoFormativo>
+                            <argomento />
+                            <docente>Adacher</docente>
+                            <aula>DS3B</aula>
+                            <giorno>2015-12-16</giorno>
+                            <orarioInizio>13:00:00</orarioInizio>
+                            <orarioFine>15:00:00</orarioFine>
+                        </eventoFormativo>
+                    </orari>
+                </didattica>
+            </periodoAnnoAccademico>
+        </insegnamento>
+    </corsoLaurea>
+</facolta>
