@@ -6,9 +6,6 @@
 
 package com.roma3.infovideo.service;
 
-import android.os.AsyncTask;
-import android.util.Log;
-
 import com.squareup.okhttp.Callback;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.Request;

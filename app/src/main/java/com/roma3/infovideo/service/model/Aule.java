@@ -6,7 +6,6 @@
 
 package com.roma3.infovideo.service.model;
 
-import org.simpleframework.xml.ElementArray;
 import org.simpleframework.xml.ElementList;
 import org.simpleframework.xml.Root;
 

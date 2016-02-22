@@ -4,8 +4,7 @@
   ~ <p>
   ~ Distributed under the MIT License.
   -->
-<facolta xmlns:fn="http://www.w3.org/2005/xpath-functions"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<facolta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="http://orari.uniroma3.it/ing/templates/layout.xsd">
 
     <denominazione>Dipartimento di Ingegneria</denominazione>

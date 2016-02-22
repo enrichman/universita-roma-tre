@@ -9,10 +9,8 @@ package com.roma3.infovideo.persistence;
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.os.Environment;
 
-import java.io.File;
-import static com.roma3.infovideo.persistence.RomaTreContract.*;
+import static com.roma3.infovideo.persistence.RomaTreContract.CorsoEntry;
 
 public class DBHelper extends SQLiteOpenHelper {
 

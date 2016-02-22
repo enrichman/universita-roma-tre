@@ -5,6 +5,7 @@
   -->
 <resources>
     <string name="app_name">Infovideo</string>
+    <string name="news">Avvisi</string>
 
     <string-array name="cat_names">
         <item>George</item>

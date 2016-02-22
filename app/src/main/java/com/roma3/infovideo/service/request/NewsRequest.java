@@ -6,8 +6,6 @@
 
 package com.roma3.infovideo.service.request;
 
-import android.util.Log;
-
 import com.roma3.infovideo.model.News;
 import com.roma3.infovideo.service.Client;
 import com.roma3.infovideo.service.RemoteRequest;
