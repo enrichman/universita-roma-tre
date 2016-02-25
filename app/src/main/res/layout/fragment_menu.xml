@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   ~ Copyright (c) 2016 Enrico Candino
   ~ <p>
   ~ Distributed under the MIT License.
@@ -7,22 +6,42 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#eee">
+    android:background="#eee"
+    android:clickable="true">
 
-    <ImageView
-        android:id="@+id/fragment_menu_imageview_rss"
-        android:layout_width="24dp"
-        android:layout_height="24dp"
-        android:src="@drawable/rss"
-        android:adjustViewBounds="true"/>
+    <RelativeLayout
+        android:id="@+id/fragment_menu_header"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="#0873A5">
 
-    <TextView
-        android:layout_width="wrap_content"
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="24dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/roma_tre_logo" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/fragment_home_button_home"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello"
-        android:textSize="24sp"
+        android:layout_below="@id/fragment_menu_header"
+        android:gravity="left"
         android:includeFontPadding="false"
-        android:layout_marginLeft="12dp"
-        android:layout_toRightOf="@id/fragment_menu_imageview_rss"/>
+        android:text="@string/menu_home"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/fragment_home_button_dip_ing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/fragment_home_button_home"
+        android:gravity="left"
+        android:includeFontPadding="false"
+        android:text="@string/r3_dip_ing_name"
+        android:textSize="18sp" />
 
 </RelativeLayout>

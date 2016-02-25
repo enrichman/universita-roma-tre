@@ -7,15 +7,13 @@
     <string name="app_name">Infovideo</string>
     <string name="news">Avvisi</string>
 
-    <string-array name="cat_names">
-        <item>George</item>
-        <item>Zubin</item>
-        <item>Carlos</item>
-        <item>Frank</item>
-        <item>Charles</item>
-        <item>Simon</item>
-        <item>Fezra</item>
-        <item>Henry</item>
-        <item>Schuster</item>
-    </string-array>
+    <string name="menu_home">Home</string>
+
+    <string name="r3_dip_ateneo_name">Ateneo</string>
+    <string name="r3_dip_ateneo_rss_url">http://mobile.uniroma3.it/ateneo.rss</string>
+
+    <string name="r3_dip_ing_name">Ingegneria</string>
+    <string name="r3_dip_ing_rss_url">http://mobile.uniroma3.it/ing.rss</string>
+
+
 </resources>

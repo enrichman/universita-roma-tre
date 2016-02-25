@@ -10,13 +10,6 @@
     android:layout_height="match_parent"
     tools:context=".controller.MainActivity">
 
-    <android.support.v7.widget.Toolbar
-        android:id="@+id/my_awesome_toolbar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="?attr/colorPrimary"
-        android:minHeight="?attr/actionBarSize" />
-
     <android.support.v7.widget.CardView
         android:id="@+id/news_cardview"
         xmlns:card_view="http://schemas.android.com/apk/res-auto"
